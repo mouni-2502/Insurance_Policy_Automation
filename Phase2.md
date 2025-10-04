@@ -47,8 +47,7 @@ Test logins were used to verify access privileges for each type of user.
 1. Setup → Users → New User.  
 2. Created three users and assigned appropriate profiles and roles.  
 3. Logged in as each user to validate access and permissions.
-
-![Screenshot Placeholder](<img width="1584" height="787" alt="Screenshot 2025-10-04 232735" src="https://github.com/user-attachments/assets/fac6c298-199d-4054-bbf1-da9fd3473125" />
+(<img width="1584" height="787" alt="Screenshot 2025-10-04 232735" src="https://github.com/user-attachments/assets/fac6c298-199d-4054-bbf1-da9fd3473125" />
 )
 
 ---
