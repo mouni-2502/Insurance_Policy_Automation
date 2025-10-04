@@ -28,7 +28,7 @@ Workflow rules in Salesforce are used to automate standard operational tasks. Em
 
 ---
 
-## 2. Multi-Level Approval Process for Claims
+## 2. Approval Process for Claims
 
 
 Approval Processes enforce a sequential validation of records before finalization. In insurance, this ensures that claims are verified against policies, coverage limits, and fraud checks. Multi-level approval also aligns with organizational hierarchy for accountability.
