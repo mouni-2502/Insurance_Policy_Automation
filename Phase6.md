@@ -29,7 +29,8 @@ This phase focused on creating visual representations of key metrics in the Insu
 8. Click **Save & Run** to generate the report with chart.
 
 **Purpose:** Provides quick insights to Managers on pending claims and expiring policies.
-<img width="1911" height="922" alt="Screenshot 2025-09-30 125156" src="https://github.com/user-attachments/assets/3460f748-7c32-4500-a395-f636c2868353" />
+<img width="946" height="799" alt="Screenshot 2025-09-30 130347" src="https://github.com/user-attachments/assets/437460da-674d-41ad-974a-f0b2be09e032" />
+
 
 ---
 
@@ -55,3 +56,5 @@ This phase focused on creating visual representations of key metrics in the Insu
 6. Save and **Refresh Dashboard** to view live data.
 
 **Purpose:** Allows Managers and Admins to monitor operations in real-time, take decisions, and follow up on pending tasks efficiently.
+<img width="1911" height="922" alt="Screenshot 2025-09-30 125156" src="https://github.com/user-attachments/assets/1a15af6a-44ad-44ec-a728-63ecad120ebc" />
+
