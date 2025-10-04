@@ -1,4 +1,4 @@
-# Phase 6: Reports & Dashboards – User Interface Development
+# Phase 9: Reports & Dashboards 
 
 This phase focused on creating visual representations of key metrics in the Insurance Claim & Policy Management System. Charts and dashboards were used to help Managers and Admins monitor claims, policies, and customer activity effectively.
 
