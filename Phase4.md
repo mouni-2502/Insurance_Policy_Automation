@@ -6,7 +6,7 @@ This phase focused on automating business-critical processes in the Insurance Cl
 
 ## 1. Workflow Email Notifications for Claim Submission
 
-**Theory & Purpose:**  
+ 
 Workflow rules in Salesforce are used to automate standard operational tasks. Email notifications are critical in insurance systems because delays in claim processing can frustrate customers and cause operational bottlenecks. By automatically notifying managers when an agent submits a claim, we ensure prompt attention without manual follow-up.
 
 **Implementation & Details:**  
@@ -30,7 +30,7 @@ Workflow rules in Salesforce are used to automate standard operational tasks. Em
 
 ## 2. Multi-Level Approval Process for Claims
 
-**Theory & Purpose:**  
+
 Approval Processes enforce a sequential validation of records before finalization. In insurance, this ensures that claims are verified against policies, coverage limits, and fraud checks. Multi-level approval also aligns with organizational hierarchy for accountability.
 
 **Implementation & Details:**  
@@ -54,13 +54,6 @@ Approval Processes enforce a sequential validation of records before finalizatio
 
 ---
 
-**Summary:**  
-The implemented workflow and multi-level approval process provide automation for:
-
-- Faster claim processing
-- Better accountability
-- Traceability and compliance
-- Reduced manual intervention  
 
 These automations form the foundation for further enhancements like policy renewal reminders or advanced alerts in future project phases.
 
