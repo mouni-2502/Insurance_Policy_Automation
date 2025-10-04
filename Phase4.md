@@ -55,5 +55,4 @@ Approval Processes enforce a sequential validation of records before finalizatio
 ---
 
 
-These automations form the foundation for further enhancements like policy renewal reminders or advanced alerts in future project phases.
 
