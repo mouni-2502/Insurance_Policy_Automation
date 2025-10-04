@@ -71,7 +71,7 @@ Field-level security was applied to hide or make read-only sensitive data such a
 **Brief Purpose:**  
 Profiles control baseline permissions and ensure sensitive policy or claim data cannot be modified by unauthorized users.
 
-![Screenshot Placeholder](<img width="1582" height="782" alt="Screenshot 2025-10-04 232948" src="https://github.com/user-attachments/assets/8a28f86f-7c3d-4d24-945c-2d3cd3c5d59d" />
+(<img width="1582" height="782" alt="Screenshot 2025-10-04 232948" src="https://github.com/user-attachments/assets/8a28f86f-7c3d-4d24-945c-2d3cd3c5d59d" />
 )
 
 ---
@@ -94,8 +94,7 @@ A hierarchical structure was implemented as:
 
 **Brief Purpose:**  
 Role hierarchy establishes the approval and reporting chain, enabling upward visibility for monitoring and validation.
-
-![Screenshot Placeholder](<img width="1588" height="787" alt="Screenshot 2025-10-04 233041" src="https://github.com/user-attachments/assets/328e4c82-8c7f-4182-bf6c-d1c8e349a653" />
+(<img width="1588" height="787" alt="Screenshot 2025-10-04 233041" src="https://github.com/user-attachments/assets/328e4c82-8c7f-4182-bf6c-d1c8e349a653" />
 )
 
 ---
@@ -159,7 +158,7 @@ Created a **Manager-Level Sharing Rule** to automatically share agent-owned reco
 **Brief Purpose:**  
 Sharing rules extend record access upward in the hierarchy for supervision and claim verification.
 
-![Screenshot Placeholder](<img width="1552" height="160" alt="Screenshot 2025-10-04 233402" src="https://github.com/user-attachments/assets/6ef4f62d-c83c-4dff-b6fb-b40f174db60c" />
+(<img width="1552" height="160" alt="Screenshot 2025-10-04 233402" src="https://github.com/user-attachments/assets/6ef4f62d-c83c-4dff-b6fb-b40f174db60c" />
 )
 
 ---
