@@ -18,6 +18,11 @@ Populate the system with sample data for testing and validation.
 2. Click **New** to create records.  
 3. Fill in all required fields ensuring consistency in relationships.  
 4. Save records and validate that relationships appear correctly in related lists.
+<img width="1919" height="783" alt="Screenshot 2025-10-05 014000" src="https://github.com/user-attachments/assets/d2288a2e-90e7-4daa-9059-ca4a9ea1b497" />
+<img width="1879" height="766" alt="Screenshot 2025-10-05 014027" src="https://github.com/user-attachments/assets/7175de3a-8b0f-4a66-b13f-9d284e55b0e4" />
+<img width="1903" height="767" alt="Screenshot 2025-10-05 014053" src="https://github.com/user-attachments/assets/32ca9079-0395-40ac-aec5-328655987f90" />
+
+
 
 ---
 
@@ -48,3 +53,4 @@ Maintain a backup of sample data within the org.
 1. Create a report for the object (e.g., Customers, Policies, Claims).  
 2. Include all relevant fields.  
 3. Click **Export → Excel Format** to save a local copy.
+<img width="1920" height="1080" alt="Screenshot 2025-10-05 013832" src="https://github.com/user-attachments/assets/e4341ece-7bd0-4a24-b33b-0efc7e0bfb3a" />
