@@ -47,8 +47,8 @@ Test logins were used to verify access privileges for each type of user.
 1. Setup → Users → New User.  
 2. Created three users and assigned appropriate profiles and roles.  
 3. Logged in as each user to validate access and permissions.
-(<img width="1584" height="787" alt="Screenshot 2025-10-04 232735" src="https://github.com/user-attachments/assets/fac6c298-199d-4054-bbf1-da9fd3473125" />
-)
+<img width="1584" height="787" alt="Screenshot 2025-10-04 232735" src="https://github.com/user-attachments/assets/fac6c298-199d-4054-bbf1-da9fd3473125" />
+
 
 ---
 
@@ -70,9 +70,8 @@ Field-level security was applied to hide or make read-only sensitive data such a
 
 **Brief Purpose:**  
 Profiles control baseline permissions and ensure sensitive policy or claim data cannot be modified by unauthorized users.
+<img width="1582" height="782" alt="Screenshot 2025-10-04 232948" src="https://github.com/user-attachments/assets/8a28f86f-7c3d-4d24-945c-2d3cd3c5d59d" />
 
-(<img width="1582" height="782" alt="Screenshot 2025-10-04 232948" src="https://github.com/user-attachments/assets/8a28f86f-7c3d-4d24-945c-2d3cd3c5d59d" />
-)
 
 ---
 
@@ -94,8 +93,8 @@ A hierarchical structure was implemented as:
 
 **Brief Purpose:**  
 Role hierarchy establishes the approval and reporting chain, enabling upward visibility for monitoring and validation.
-(<img width="1588" height="787" alt="Screenshot 2025-10-04 233041" src="https://github.com/user-attachments/assets/328e4c82-8c7f-4182-bf6c-d1c8e349a653" />
-)
+<img width="1588" height="787" alt="Screenshot 2025-10-04 233041" src="https://github.com/user-attachments/assets/328e4c82-8c7f-4182-bf6c-d1c8e349a653" />
+
 
 ---
 
@@ -158,8 +157,8 @@ Created a **Manager-Level Sharing Rule** to automatically share agent-owned reco
 **Brief Purpose:**  
 Sharing rules extend record access upward in the hierarchy for supervision and claim verification.
 
-(<img width="1552" height="160" alt="Screenshot 2025-10-04 233402" src="https://github.com/user-attachments/assets/6ef4f62d-c83c-4dff-b6fb-b40f174db60c" />
-)
+<img width="1552" height="160" alt="Screenshot 2025-10-04 233402" src="https://github.com/user-attachments/assets/6ef4f62d-c83c-4dff-b6fb-b40f174db60c" />
+
 
 ---
 
