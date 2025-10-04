@@ -14,7 +14,7 @@ The project was developed entirely in **Salesforce Lightning Developer Edition**
 - Profiles, Roles, Permission Sets  
 - Reports and Dashboards  
 
-A single Developer Org was used for end-to-end development and testing (no sandbox required).  
+A single Developer Org was used for end-to-end development and testing.  
 This environment provided full admin access to configure the data-model and security settings.
 
 **Procedure:**
@@ -196,12 +196,11 @@ Ensures the Salesforce org is stable, secure, and ready for next phases.
 ![Screenshot Placeholder](screenshots/phase2_verification.png)
 
 ---
-
-✅ **Final Outcome:**  
+ 
 The Salesforce Developer Org was fully configured with:
 
 - Secured access  
 - Hierarchical data visibility  
 - Controlled sharing mechanisms  
 
-This foundation enabled later phases such as **custom object creation, workflow automation, approvals, and reporting**.
+
