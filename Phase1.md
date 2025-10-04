@@ -1,7 +1,7 @@
 # Phase 1: Problem Understanding & Industry Analysis
 
 ## Requirement Gathering
-- Conducted detailed discussions with mentors and peers to identify pain points in insurance operations.
+- Conducted detailed discussions with mentors and peers to identify main points in insurance operations.
 - Collected requirements for managing **Customers, Policies, Claims, and Mentors/Agents**.
 - Key requirements identified:
   - Efficient customer data management
