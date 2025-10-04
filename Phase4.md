@@ -1,4 +1,4 @@
-# Phase 4: Process Automation (Admin) – Insurance Claim & Policy Management System
+# Phase 4: Process Automation 
 
 This phase focused on automating business-critical processes in the Insurance Claim & Policy Management System. Automation reduces manual effort, enforces business rules, ensures timely approvals, and maintains compliance. In insurance operations, timely claim approvals and notifications are crucial to maintain customer trust and operational efficiency.
 
