@@ -27,7 +27,7 @@ This environment provided full admin access to configure the data-model and secu
 **Brief Purpose:**  
 To establish a fully functional development workspace with all customization features enabled.
 
-![Screenshot Placeholder](screenshots/phase2_dev_org.png)
+
 
 ---
 
@@ -48,7 +48,8 @@ Test logins were used to verify access privileges for each type of user.
 2. Created three users and assigned appropriate profiles and roles.  
 3. Logged in as each user to validate access and permissions.
 
-![Screenshot Placeholder](screenshots/phase2_user_setup.png)
+![Screenshot Placeholder](<img width="1584" height="787" alt="Screenshot 2025-10-04 232735" src="https://github.com/user-attachments/assets/fac6c298-199d-4054-bbf1-da9fd3473125" />
+)
 
 ---
 
@@ -71,7 +72,8 @@ Field-level security was applied to hide or make read-only sensitive data such a
 **Brief Purpose:**  
 Profiles control baseline permissions and ensure sensitive policy or claim data cannot be modified by unauthorized users.
 
-![Screenshot Placeholder](screenshots/phase2_profiles.png)
+![Screenshot Placeholder](<img width="1582" height="782" alt="Screenshot 2025-10-04 232948" src="https://github.com/user-attachments/assets/8a28f86f-7c3d-4d24-945c-2d3cd3c5d59d" />
+)
 
 ---
 
@@ -94,7 +96,8 @@ A hierarchical structure was implemented as:
 **Brief Purpose:**  
 Role hierarchy establishes the approval and reporting chain, enabling upward visibility for monitoring and validation.
 
-![Screenshot Placeholder](screenshots/phase2_role_hierarchy.png)
+![Screenshot Placeholder](<img width="1588" height="787" alt="Screenshot 2025-10-04 233041" src="https://github.com/user-attachments/assets/328e4c82-8c7f-4182-bf6c-d1c8e349a653" />
+)
 
 ---
 
@@ -114,7 +117,7 @@ Created an additional **“Claims Extended Access”** permission set:
 **Brief Purpose:**  
 Permission sets were used to temporarily extend access without altering default profile permissions.
 
-![Screenshot Placeholder](screenshots/phase2_permission_sets.png)
+
 
 ---
 
@@ -137,7 +140,7 @@ Configured base record-level security for all custom objects:
 **Brief Purpose:**  
 OWD ensures data confidentiality and prevents unauthorized data visibility between different agents.
 
-![Screenshot Placeholder](screenshots/phase2_owd.png)
+
 
 ---
 
@@ -157,7 +160,8 @@ Created a **Manager-Level Sharing Rule** to automatically share agent-owned reco
 **Brief Purpose:**  
 Sharing rules extend record access upward in the hierarchy for supervision and claim verification.
 
-![Screenshot Placeholder](screenshots/phase2_sharing_rules.png)
+![Screenshot Placeholder](<img width="1552" height="160" alt="Screenshot 2025-10-04 233402" src="https://github.com/user-attachments/assets/6ef4f62d-c83c-4dff-b6fb-b40f174db60c" />
+)
 
 ---
 
@@ -176,7 +180,7 @@ Each configuration was tested by logging in as **Admin, Manager, and Agent** to 
 **Brief Purpose:**  
 Testing verified that security and record-sharing behaviors worked correctly before moving to customization and automation.
 
-![Screenshot Placeholder](screenshots/phase2_testing.png)
+
 
 ---
 
@@ -193,7 +197,6 @@ Verified successful:
 **Brief Purpose:**  
 Ensures the Salesforce org is stable, secure, and ready for next phases.
 
-![Screenshot Placeholder](screenshots/phase2_verification.png)
 
 ---
  
