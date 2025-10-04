@@ -10,14 +10,13 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 
 - **Custom Objects Created:**
   - **Customer** – stores personal information of policyholders.  
-    ![Customer Object Screenshot](../Screenshots/Phase3/Customer_Object.png)
+   
   - **Policy** – stores policy number, type, coverage amount, premium, start/end dates, and linked Customer.  
-    ![Policy Object Screenshot](../Screenshots/Phase3/Policy_Object.png)
+    
   - **Claim** – tracks claim submissions, type, amount, status, and related Policy & Customer.  
-    ![Claim Object Screenshot](../Screenshots/Phase3/Claim_Object.png)
+    
   - **Mentor/Agent** – stores agents assigned to customers.  
-    ![Agent Object Screenshot](../Screenshots/Phase3/Agent_Object.png)
-
+   
 - **Standard Objects Used:**  
   - Account and Contact objects were minimally used; main focus was on custom objects.
 
@@ -52,7 +51,7 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 1. Object Manager → Select Object → **Fields & Relationships → New**.  
 2. Choose field type (Text, Number, Date, Picklist).  
 3. Set field-level security and add to **Page Layouts**.  
-   ![Fields Screenshot](../Screenshots/Phase3/Fields.png)
+   
 
 ---
 
@@ -79,8 +78,7 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 - Created custom page layouts for each object to show relevant fields to users.  
 - Added related lists for easy access to linked records (e.g., Customer → Policies → Claims).  
 - Compact layouts configured for key fields to show in record highlights.  
-  ![Page Layout Screenshot](../Screenshots/Phase3/Page_Layouts.png)
-
+  
 **Purpose:**  
 - Improves **UI/UX** and ensures agents/managers see relevant information quickly.
 
@@ -97,8 +95,7 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 **Implementation:**  
 - Used **Schema Builder** to visually verify relationships between objects.  
 - Ensured lookup and master-detail relationships were correctly linked.  
-  ![Schema Builder Screenshot](../Screenshots/Phase3/Schema_Builder.png)
-
+  
 **Purpose:**  
 - Quick **visual validation** of object structure before testing automation.
 
@@ -115,8 +112,7 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 - **Customer → Policy:** Lookup Relationship (one customer can have multiple policies).  
 - **Policy → Claim:** Master-Detail Relationship (claim exists only if policy exists).  
 - **Agent → Customer:** Lookup Relationship.  
-  ![Relationships Screenshot](../Screenshots/Phase3/Relationships.png)
-
+ 
 **Purpose:**  
 - Ensures proper **data linkage** and referential integrity.  
 - Master-Detail relationship enables **roll-up summary fields** for analytics.
