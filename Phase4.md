@@ -24,6 +24,7 @@ Workflow rules in Salesforce are used to automate standard operational tasks. Em
 2. Define criteria: `Claim Status = Submitted`.  
 3. Add immediate workflow action: **Email Alert → choose template → assign Manager as recipient**.  
 4. Activate the workflow rule.  
+<img width="577" height="262" alt="Screenshot 2025-09-17 212839" src="https://github.com/user-attachments/assets/4a00a3cd-32d5-4f21-9ea8-f1b810838c23" />
 
 
 ---
