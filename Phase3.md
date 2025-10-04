@@ -60,7 +60,7 @@ This phase focused on designing the **data structure** of the Insurance Claim & 
 **Implementation:**  
 - **Policy** record types created for **Health Insurance** and **Life Insurance**.  
 - Different page layouts applied for each record type.  
-  ![Record Types Screenshot](../Screenshots/Phase3/Record_Types.png)
+  
 
 **Purpose:**  
 - Allows **customized layouts and picklist values** depending on policy type.
