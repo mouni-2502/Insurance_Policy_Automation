@@ -1,40 +1,78 @@
-# Phase 6: User Interface Development 
-This phase focused on designing the user interface for the Salesforce application to improve usability for Agents, Managers, and Admins. The main objective was to make data entry, reporting, and navigation intuitive while providing quick access to key operational metrics.
+# 🧩 Phase 6: User Interface Development
 
-## 1️⃣ Lightning App Builder & Record Pages
+This phase focused on designing and customizing the user interface of the **Insurance Policy Automation System** to make navigation simpler and record management more efficient for users such as **Agents, Managers, and Admins**.
 
-**Implementation:**
+The major UI components implemented in this project include:
+- Custom Tabs  
+- App Creation  
+- Page Layouts for various custom objects  
 
-- A dedicated **Insurance Policy Management App** was created using **Lightning App Builder**.
-- Custom **record pages** were configured for objects: Customer, Policy, Claim, and Agent/Mentor.
-- Pages were designed to include relevant fields, related lists, and components for easy access.
+---
 
-**Procedure:**
+## 🔹 1️⃣ App Creation – “Insurance Policy Management”
 
-1. Navigate to **Setup → App Builder → New Lightning App**.
-2. Name the app: `Insurance Policy Management`.
-3. Configure navigation: Add standard and custom tabs for Customers, Policies, Claims.
-4. Customize record pages: **Setup → Object Manager → Select Object → Lightning Record Pages → Edit**.
-5. Add sections and related lists to show linked records (e.g., Customer → Policies → Claims).
+### 🎯 Purpose:
+To provide a centralized workspace that contains all the relevant objects (**Customer, Policy, Claim, and Mentor**) under a single app for smooth operation and better accessibility.
 
-**Purpose:**
+### 🛠️ Implementation Steps:
+1. Navigate to **Setup → App Manager → New Lightning App**  
+2. Click **New Lightning App** and fill in the details:  
+   - **App Name:** Insurance Policy Management  
+   - **Developer Name:** Insurance_Policy_Management  
+3. Select **Navigation Style:** Standard Navigation  
+4. Add **Navigation Items (Tabs):**
+   - Home  
+   - Customer  
+   - Policy  
+   - Claim  
+   - Mentor  
+5. Assign the app to the required user profiles (**System Administrator, Standard User**)  
+6. Click **Finish** to create and launch the app  
 
-- Provides a structured and role-based UI for different users.
-- Ensures agents and managers can access the most relevant data efficiently.
+### ✅ Outcome:
+A custom **Insurance Policy Management App** was successfully created, allowing users to access all modules in one place and switch easily between **Customers**, **Policies**, and **Claims**.
 
-## 2️⃣ Tabs & Home Page Layouts
+---
 
-**Implementation:**
+## 🔹 2️⃣ Custom Tabs Creation
 
-- Custom tabs were created for key objects to simplify navigation.
-- Home page layout was configured to include dashboards and key metrics.
+### 🎯 Purpose:
+Tabs help users navigate directly to different records or modules such as **Customer**, **Policy**, **Claim**, and **Mentor**.
 
-**Procedure:**
+### 🛠️ Implementation Steps:
+1. Go to **Setup → Tabs → New**  
+2. Choose **Custom Object Tab**  
+3. Select the desired custom object (e.g., **Customer**)  
+4. Enter the **Tab Label** and select a **Tab Style** (icon and color)  
+5. Repeat the process for all required objects:
+   - Customer  
+   - Policy  
+   - Claim  
+   - Mentor  
+6. Add these tabs to the **Insurance Policy Management App** navigation bar  
 
-1. **Setup → Tabs → New → Select object → Name tab → Assign tab style.**
-2. **Setup → Home Page Layouts → Edit → Add dashboard components and key reports.**
+### ✅ Outcome:
+All main entities of the project were made easily accessible through navigation tabs.  
+This helped users manage **Customers**, **Policies**, and **Claims** efficiently.
 
-**Purpose:**
+---
 
-- Quick access to important modules and metrics.
-- Improves productivity by reducing clicks and navigation time.
+## 🔹 3️⃣ Page Layout Customization
+
+### 🎯 Purpose:
+To display only the relevant fields and related lists for each object, ensuring that data entry and record viewing are simple and organized.
+
+### 🛠️ Implementation Steps:
+1. Navigate to **Setup → Object Manager → Select Object (e.g., Policy)**  
+2. Click **Page Layouts → Edit** (or create a new layout)  
+3. Add or arrange required fields:  
+   - **For Customer:** Name, Email, Contact Number, Address  
+   - **For Policy:** Policy Number, Type, Premium, Coverage Amount, Start & End Dates  
+   - **For Claim:** Claim Type, Amount, Status, Submission Date  
+4. Add **Related Lists** (e.g., Customer → Policies → Claims) for linked data visibility  
+5. Save the layout and assign it to the appropriate profiles  
+
+### ✅ Outcome:
+Customized **Page Layouts** were created for each custom object, ensuring a clean, user-friendly interface with relevant data displayed efficiently.
+
+---
