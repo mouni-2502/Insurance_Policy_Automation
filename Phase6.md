@@ -54,6 +54,7 @@ Tabs help users navigate directly to different records or modules such as **Cust
 ### ✅ Outcome:
 All main entities of the project were made easily accessible through navigation tabs.  
 This helped users manage **Customers**, **Policies**, and **Claims** efficiently.
+<img width="1919" height="881" alt="Screenshot 2025-10-05 094603" src="https://github.com/user-attachments/assets/f44665c6-9e28-4854-b708-1c28368dfc7b" />
 
 ---
 
@@ -74,5 +75,10 @@ To display only the relevant fields and related lists for each object, ensuring 
 
 ### ✅ Outcome:
 Customized **Page Layouts** were created for each custom object, ensuring a clean, user-friendly interface with relevant data displayed efficiently.
+<img width="1890" height="777" alt="Screenshot 2025-10-05 100001" src="https://github.com/user-attachments/assets/3c5e72fc-b84c-4790-ac29-0bb1caa9fcd6" />
+<img width="1902" height="778" alt="Screenshot 2025-10-05 095911" src="https://github.com/user-attachments/assets/3ef31f5b-79ae-484c-b419-8910098be409" />
+<img width="1902" height="779" alt="Screenshot 2025-10-05 100044" src="https://github.com/user-attachments/assets/02c759c1-8fc5-4fea-8456-774e362cc38f" />
+
+
 
 ---
